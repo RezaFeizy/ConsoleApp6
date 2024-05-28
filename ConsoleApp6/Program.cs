@@ -9,6 +9,7 @@ switch(a)
         }
         case 2:
         {
+            Console.WriteLine("HI");
             break;
         }
 }
